@@ -1,0 +1,26 @@
+
+* Theory
+  
+** Data Science
+
+*** TODO HyperLogLog
+
+**** Reading
+     [[http://blog.aggregateknowledge.com/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/][Sketch of algorithm at Aggregate Knowledge]]
+*** TODO Count Min Sketch
+
+*** TODO K-Min Values
+
+*** TODO Distinct Sampling
+
+   
+** PLT
+
+*** TODO Finish SICP
+* Practice
+
+** Programming
+
+*** TODO LYAH Chapter 7
+
+*** TODO LYAH Chapter 8
